@@ -8,8 +8,7 @@ The data I propose to visualize for my project is an erthquake data in Turekey.
 
 I’ve created a proof of concept visualization of this data. It's a ... and it shows ...
 
-[![image](https://user-images.githubusercontent.com/37562094/65656691-c3b2db80-dfee-11e9-86cc-9d15d95e98a5.png)]
-(https://beta.vizhub.com/guangxinhu/c739773578b643fd8e4167b4ddab990b)
+![image](https://user-images.githubusercontent.com/37562094/65656691-c3b2db80-dfee-11e9-86cc-9d15d95e98a5.png)(https://beta.vizhub.com/guangxinhu/c739773578b643fd8e4167b4ddab990b)
 
 (please put a screenshot of one or more visualizations of this dataset you already made, for previous assignments)
 
