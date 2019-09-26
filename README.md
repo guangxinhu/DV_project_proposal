@@ -2,7 +2,7 @@
 
 ## Data
 
-The data I propose to visualize for my project is an erthquake data in Turekey.
+The data I propose to visualize for my project is an earthquake data in Turekey.
 
 ## Prototypes
 
@@ -16,10 +16,10 @@ I’ve created a proof of concept visualization of this data. It's a ... and it 
 
 The following tasks and questions will drive the visualization and interaction decisions for this project:
 
- * (insert your question or task here) How does the X vary over time?
- * (insert your question or task here) Is there any correlation between X and Y?
- * (insert your question or task here) Are there interesting spatial patterns in X?
- * (insert your question or task here) How many X are there across different Y?
+ * Based Turkey map, the occurrence of earthquakes every five years can be shown on it.
+ * If click the certain city on map, more earthquake information will be shown.
+ * The data set also includes many earthquake-related statistics. This project will also analyze the relationship and connection between various seismic features.
+ * If possible, a prediction map of future earthquakes will be sketched based on previous earthquake information.
 
 ## Sketches
 A slideable timeline is added to the data visualizations at intervals of five years. The map shows the frequency and magnitude of earthquakes in different regions every five years.
