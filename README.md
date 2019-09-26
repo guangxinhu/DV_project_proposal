@@ -10,7 +10,7 @@ I’ve created a proof of concept visualization of this data. It's a ... and it 
 
 [![image](https://user-images.githubusercontent.com/37562094/65656691-c3b2db80-dfee-11e9-86cc-9d15d95e98a5.png)](https://beta.vizhub.com/guangxinhu/c739773578b643fd8e4167b4ddab990b)
 
-(please put a screenshot of one or more visualizations of this dataset you already made, for previous assignments)
+
 
 ## Questions & Tasks
 
@@ -22,10 +22,9 @@ The following tasks and questions will drive the visualization and interaction d
  * (insert your question or task here) How many X are there across different Y?
 
 ## Sketches
-
-(insert one or more hand-drawn sketches of interactive visualizations that you imagine)
-(describe each sketch - how is the data visualized, what are the interactions, and how do these relate to the questions/tasks)
+A slideable timeline is added to the data visualizations at intervals of five years. The map shows the frequency and magnitude of earthquakes in different regions every five years.
+![image](https://user-images.githubusercontent.com/37562094/65657034-de398480-dfef-11e9-871e-ad6398e1add0.png)
 
 ## Open Questions
-
-(describe any fear, uncertainty, or doubt you’re having about the feasibility of implementing the sketched system. For example, “I’m not sure where to get the geographic shapes to build a map from this data” or “I don’t know how to resolve the codes to meaningful names” … Feel free to delete this section if you’re confident.) 
+ * There are some data names in the dataset, and I don't know what they mean 
+ * I want to draw earthquake maps according to Turkish cities, but there are too many different cities in the data set. Is it a good idea to merge the data of cities according to region first?
