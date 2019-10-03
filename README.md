@@ -42,7 +42,7 @@ The following tasks and questions will drive the visualization and interaction d
 * Prepare geospatial data and make a world map with React & D3.
 * According to earthquake statistical data, color different region in different colors.
 * Mark each earthquake event on the map by scatter plot.
-* Creat timeline bar to show earthquake situation among years.
+* Creat timeline bar to show earthquake situation among years.(interaction)
 * Polish final project.
 
 ## Open Questions
