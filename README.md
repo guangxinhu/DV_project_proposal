@@ -14,7 +14,10 @@ The x-coordinate represents the different years, and the y-coordinate represents
 
 ![image](https://user-images.githubusercontent.com/37562094/66102481-81564500-e580-11e9-8ea6-4d6bece3957e.png)
 
+## Sketches
 
+![image](https://user-images.githubusercontent.com/37562094/66104371-5c64d080-e586-11e9-8b41-4891a478a0d5.png)
+(resource: http://npdp.stanford.edu/eq_historical_catalog)
 
 ## Questions & Tasks
 
@@ -25,9 +28,9 @@ The following tasks and questions will drive the visualization and interaction d
  * The data set also includes many earthquake-related statistics. This project will also analyze the relationship and connection between various seismic features.
  * If possible, a prediction map of future earthquakes will be sketched based on previous earthquake information.
 
-## Sketches
-A slideable timeline is added to the data visualizations at intervals of five years. The map shows the frequency and magnitude of earthquakes in different regions every five years.
-![image](https://user-images.githubusercontent.com/37562094/65657034-de398480-dfef-11e9-871e-ad6398e1add0.png)
+## Schedule of Deliverables
+
+
 
 ## Open Questions
  * There are some data names in the dataset, and I don't know what they mean 
