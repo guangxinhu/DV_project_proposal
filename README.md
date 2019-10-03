@@ -21,6 +21,8 @@ The x-coordinate represents the different years, and the y-coordinate represents
 
 ## Sketches
 
+The visualization of global earthquake datasets is mainly presented in the following figure. A heat map is planned to show the frequency of earthquakes around the world based on statistical data, and each earthquake event will also be displayed as scatter plot on the map.
+
 ![image](https://user-images.githubusercontent.com/37562094/66104371-5c64d080-e586-11e9-8b41-4891a478a0d5.png)
 (resource: http://npdp.stanford.edu/eq_historical_catalog)
 
@@ -28,14 +30,18 @@ The x-coordinate represents the different years, and the y-coordinate represents
 
 The following tasks and questions will drive the visualization and interaction decisions for this project:
 
- * Based Turkey map, the occurrence of earthquakes every five years can be shown on it.
- * If click the certain city on map, more earthquake information will be shown.
- * The data set also includes many earthquake-related statistics. This project will also analyze the relationship and connection between various seismic features.
- * If possible, a prediction map of future earthquakes will be sketched based on previous earthquake information.
+ * Which areas are prone to earthquakes, which areas do not often occur in the earthquake.
+ * Which places are prone to high magnitude earthquakes.
+ * 
+ * If I can, try to realize 'zoom' function for map.
 
 ## Schedule of Deliverables
 
-
+* Prepare geospatial data and make a world map with React & D3.
+* According to earthquake statistical data, color different region in different colors.
+* Mark each earthquake event on the map by scatter plot.
+* Creat timeline bar to show earthquake situation among years.
+* Polish final project.
 
 ## Open Questions
  *
