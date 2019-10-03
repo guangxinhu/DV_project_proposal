@@ -32,7 +32,9 @@ The following tasks and questions will drive the visualization and interaction d
 
  * Which areas are prone to earthquakes, which areas do not often occur in the earthquake.
  * Which places are prone to high magnitude earthquakes.
- * 
+ * Which places are prone to earthquakes of longer duration.
+ * The occurrence and distribution of important earthquakes around the world in different years.
+ * Which earthquake triggered the Tsunami.
  * If I can, try to realize 'zoom' function for map.
 
 ## Schedule of Deliverables
