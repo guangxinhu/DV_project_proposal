@@ -2,13 +2,17 @@
 
 ## Data
 
-The data I propose to visualize for my project is an earthquake data in Turekey.
+The data I propose to visualize for my project is an earthquake data.</br>
+The origin of database is [National Geophysical Data Center / World Data Service (NGDC/WDS): Significant Earthquake Database. National Geophysical Data Center, NOAA.](https://www.ngdc.noaa.gov/nndc/struts/form?t=101650&s=1&d=1).</br>
+
 
 ## Prototypes
 
-I’ve created a proof of concept visualization of this data. It's a ... and it shows ...
+I’ve created a proof of concept visualization of this data. </br>
+Each point represents an earthquake event.</br>
+The x-coordinate represents the different years, and the y-coordinate represents the earthquake magnitude. The color of circle indicates the duration of earthquake.
 
-[![image](https://user-images.githubusercontent.com/37562094/65656691-c3b2db80-dfee-11e9-86cc-9d15d95e98a5.png)](https://beta.vizhub.com/guangxinhu/c739773578b643fd8e4167b4ddab990b)
+![image](https://user-images.githubusercontent.com/37562094/66102481-81564500-e580-11e9-8ea6-4d6bece3957e.png)
 
 
 
