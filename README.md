@@ -11,6 +11,8 @@ The Significant Earthquake Database contains information on destructive earthqua
 
 ## Prototypes
 
+### Scatter Plot
+
 I’ve created a proof of concept visualization of this data. </br>
 
 Each point represents an earthquake event.</br>
@@ -19,12 +21,11 @@ The x-coordinate represents the different years, and the y-coordinate represents
 
 ![image](https://user-images.githubusercontent.com/37562094/66102481-81564500-e580-11e9-8ea6-4d6bece3957e.png)
 
-## Sketches
+### Map Plot
 
-The visualization of global earthquake datasets is mainly presented in the following figure. A heat map is planned to show the frequency of earthquakes around the world based on statistical data, and each earthquake event will also be displayed as scatter plot on the map.
+In addition to simply representing seismic data in a coordinate system based on numerical values, mapping seismic data on a map can give people a more intuitive sense of earthquake distribution. Therefore, the visualization effect of the whole data can also be observed with the knowledge of the location of the seismic belt.
 
-![image](https://user-images.githubusercontent.com/37562094/66104371-5c64d080-e586-11e9-8b41-4891a478a0d5.png)
-(resource: http://npdp.stanford.edu/eq_historical_catalog)
+
 
 ## Questions & Tasks
 
@@ -37,7 +38,7 @@ The following tasks and questions will drive the visualization and interaction d
  * Which earthquake triggered the Tsunami.
  * If I can, try to realize 'zoom' function for map.
 
-## Schedule of Deliverables
+## Future Work
 
 * Prepare geospatial data and make a world map with React & D3.
 * According to earthquake statistical data, color different region in different colors.
