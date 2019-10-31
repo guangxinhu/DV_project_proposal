@@ -30,7 +30,7 @@ In addition to simply representing seismic data in a coordinate system based on 
 
 ### Scatter Plot
 
-For an earthquake, people often focus on the earthiness and focal depth of the earthquake. Unlike many post-earthquake loss data, these two data can most intuitively and quickly reflect the earthquake situation. Therefore, I choose to complete drop down box in data visualization to facilitate observation of the respective relationship between the year of the earthquake, the arth and focal depth. In addition, earthquake-prone areas are likely to generate tsunamis, and this scatter diagram shows which is more likely. As can be seen from the diagram, it is obvious that a large earthquake is more likely to trigger a tsunami.
+For an earthquake, people often focus on the magnitude and focal depth of the earthquake. Unlike many post-earthquake loss data, these two data can most intuitively and quickly reflect the earthquake situation. Therefore, I choose to complete drop down box in data visualization to facilitate observation of the respective relationship between the year of the earthquake, the arth and focal depth. In addition, earthquake-prone areas are likely to generate tsunamis, and this scatter diagram shows which is more likely. As can be seen from the diagram, it is obvious that a large earthquake is more likely to trigger a tsunami.
 
 ![image](https://user-images.githubusercontent.com/37562094/67919100-535f2300-fb75-11e9-8c22-876d5c39f816.png)
 
