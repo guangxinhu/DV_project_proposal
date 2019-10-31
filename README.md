@@ -24,6 +24,14 @@ The x-coordinate represents the different years, and the y-coordinate represents
 ### Map Plot
 
 In addition to simply representing seismic data in a coordinate system based on numerical values, mapping seismic data on a map can give people a more intuitive sense of earthquake distribution. Therefore, the visualization effect of the whole data can also be observed with the knowledge of the location of the seismic belt.
+![image](https://user-images.githubusercontent.com/37562094/67918776-1fcfc900-fb74-11e9-988b-e3fbdeb85661.png)
+
+## Final Visualization
+
+### Scatter Plot
+
+
+### Earthquake Map
 
 
 
@@ -40,11 +48,7 @@ The following tasks and questions will drive the visualization and interaction d
 
 ## Future Work
 
-* Prepare geospatial data and make a world map with React & D3.
-* According to earthquake statistical data, color different region in different colors.
-* Mark each earthquake event on the map by scatter plot.
-* Creat timeline bar to show earthquake situation among years.(interaction)
-* Polish final project.
+* 
+* 
 
-## Open Questions
- *
+
