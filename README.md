@@ -30,25 +30,33 @@ In addition to simply representing seismic data in a coordinate system based on 
 
 ### Scatter Plot
 
+For an earthquake, people often focus on the earthiness and focal depth of the earthquake. Unlike many post-earthquake loss data, these two data can most intuitively and quickly reflect the earthquake situation. Therefore, I choose to complete drop down box in data visualization to facilitate observation of the respective relationship between the year of the earthquake, the arth and focal depth. In addition, earthquake-prone areas are likely to generate tsunamis, and this scatter diagram shows which is more likely. As can be seen from the diagram, it is obvious that a large earthquake is more likely to trigger a tsunami.
+
+![image](https://user-images.githubusercontent.com/37562094/67919100-535f2300-fb75-11e9-8c22-876d5c39f816.png)
 
 ### Earthquake Map
 
+According to the location of each earthquake, we can map the occurrence of earthquakes on the world map, so as to get a more intuitive sense of which regions are more prone to major earthquake disasters. It can also give a more intuitive sense of whether earthquake-prone areas are the boundaries of continental plates. The larger the scatter radius in the figure is, the deeper the focal depth of the earthquake is.
+
+![image](https://user-images.githubusercontent.com/37562094/67919015-172bc280-fb75-11e9-9dd1-13872185396c.png)
+
+If one of no-tsu or Tsunami is selected, only the distribution of earthquake data that caused or did not cause a Tsunami will be shown.
+
+![image](https://user-images.githubusercontent.com/37562094/67919055-375b8180-fb75-11e9-938c-7911d6a5eff6.png)
 
 
-## Questions & Tasks
+## Feature
 
-The following tasks and questions will drive the visualization and interaction decisions for this project:
-
- * Which areas are prone to earthquakes, which areas do not often occur in the earthquake.
- * Which places are prone to high magnitude earthquakes.
- * Which places are prone to earthquakes of longer duration.
- * The occurrence and distribution of important earthquakes around the world in different years.
- * Which earthquake triggered the Tsunami.
- * If I can, try to realize 'zoom' function for map.
+* Longitude
+* Latitude
+* Magnitude
+* Focal Depth
+* Year
 
 ## Future Work
 
-* 
-* 
+* A sliding timeline to select the year.
+* Maps can be zoomed in or out
+
 
 
